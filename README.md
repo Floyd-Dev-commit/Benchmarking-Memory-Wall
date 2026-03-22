@@ -77,7 +77,7 @@ Due to the large size of datasets, I didn't upload them to GitHub.
 ### Step 3: Run the Benchmark Suite
 Execute the main testing pipeline. **Note:** Do not run this inside a Jupyter Notebook, as interactive kernels conflict with the `spawn` multiprocessing context required for strict memory isolation. Run it as a standalone script:
 ```bash
-python maink.py
+python main.py
 ```
 The script will output terminal logs and generate a `.html` report of the telemetry metrics.
 
@@ -98,4 +98,4 @@ The benchmarks recorded in the report were executed on the following local works
 
 **Time Stamp:** 22, March, 2026
 
-*For detailed architectural discussions, please refer to Section 6 of the FULL PDF Report.
+*For detailed discussions, please refer to the FULL PDF Report.
