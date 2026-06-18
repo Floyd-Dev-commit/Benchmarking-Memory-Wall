@@ -1,5 +1,3 @@
----
-
 **Author** BIN XU  
 **DOI** https://doi.org/10.5281/zenodo.20748567
 **E-mail** floydstudy@outlook.com
