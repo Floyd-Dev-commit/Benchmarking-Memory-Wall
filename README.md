@@ -100,8 +100,11 @@ The benchmarks recorded in the report were executed on the following local works
 * **Storage:** 1TB NVMe SSD (PCI-e 4.0 x4)
 * **OS:** Windows 10
 
-**Email:** floydstudy@outlook.com
+---
 
-**Time Stamp:** 22, March, 2026
+**Project Finished** 22, March, 2026
+**Report Issued** 18, June, 2026
 
-*For detailed discussions, please refer to the FULL PDF Report.
+---
+
+*For detailed discussions, please refer to the FULL PDF Report in **INFO** section.
