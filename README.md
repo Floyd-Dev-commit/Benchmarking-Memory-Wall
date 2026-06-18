@@ -1,8 +1,8 @@
 ---
 
-**Author:** BIN XU  
-**DOI:** https://doi.org/10.5281/zenodo.20748567
-**E-mail:** floydstudy@outlook.com
+**Author** BIN XU  
+**DOI** https://doi.org/10.5281/zenodo.20748567
+**E-mail** floydstudy@outlook.com
 
 If you have any questions, please feel free to access the pdf report via DOI link.
 Shoud you  have any further questions, you may also contact me via E-mail.
