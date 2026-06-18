@@ -1,3 +1,14 @@
+---
+
+**Author:** BIN XU  
+**DOI:** https://doi.org/10.5281/zenodo.20748567
+**E-mail:** floydstudy@outlook.com
+
+If you have any questions, please feel free to access the pdf report via DOI link.
+Shoud you  have any further questions, you may also contact me via E-mail.
+
+---
+
 # Benchmarking Memory Wall: Pandas vs. Dask vs. Polars
 
 A rigorous, telemetry-driven performance evaluation of eager vs. lazy evaluation frameworks under strict single-node memory constraints. 
@@ -89,10 +100,6 @@ The benchmarks recorded in the report were executed on the following local works
 * **RAM:** 16 GB (LPDDR4, 4266 MHz)
 * **Storage:** 1TB NVMe SSD (PCI-e 4.0 x4)
 * **OS:** Windows 10
-
----
-
-**Author:** BIN XU  
 
 **Email:** floydstudy@outlook.com
 
