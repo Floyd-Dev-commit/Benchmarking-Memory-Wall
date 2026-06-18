@@ -1,0 +1,16 @@
+# Data Processing Frameworks
+pandas>=2.0.0
+polars>=0.20.0
+dask[dataframe]>=2023.10.0
+
+# Storage Engine & Formats
+pyarrow>=14.0.0
+
+# System Monitoring & Telemetry
+psutil>=5.9.0
+
+# Visualization
+matplotlib>=3.8.0
+
+# Jupyter Environment (for Notebook)
+jupyter>=1.0.0
